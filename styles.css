@@ -1,0 +1,39 @@
+#div_1{
+    width:200px;
+    height:200px;
+    display: inline-block;
+    background-color: aqua;
+    margin:0px;
+    padding: 0px;
+}
+
+#div_2{
+    width:200px;
+    height:200px;
+    display: inline-block;
+    background-color: blue;
+    margin:0px;
+    padding: 0px;
+}
+
+#div_3{
+    width:200px;
+    height:200px;
+    display: inline-block;
+    background-color: rgb(228, 10, 199);
+    margin:0px;
+    padding: 0px;
+}
+
+#div_4{
+    width:600px;
+    height:200px;
+    display: block;
+    background-color: brown;
+}
+
+footer{
+    max-width: 600px;
+    font-size: small;
+    font-style:italic;
+}
