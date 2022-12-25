@@ -1,28 +1,23 @@
-#div_1{
+div{
+    display:flex;
+}
+.small_div{
     width:200px;
     height:200px;
-    display: inline-block;
-    background-color: aqua;
     margin:0px;
-    padding: 0px;
+    padding:0px;
+}
+
+#div_1{
+    background-color: aqua;
 }
 
 #div_2{
-    width:200px;
-    height:200px;
-    display: inline-block;
     background-color: blue;
-    margin:0px;
-    padding: 0px;
 }
 
 #div_3{
-    width:200px;
-    height:200px;
-    display: inline-block;
     background-color: rgb(228, 10, 199);
-    margin:0px;
-    padding: 0px;
 }
 
 #div_4{
